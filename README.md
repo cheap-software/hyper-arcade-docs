@@ -1,1 +1,1 @@
-# hyper-arcade-docs
+# Hyper Arcade Documentation
